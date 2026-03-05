@@ -7,4 +7,4 @@ I specialize in customer support systems, operational documentation,
 data accuracy, and CRM workflow management.
 
 Portfolio:
-github.com/yourusername/customer-support-operations-portfolio
+https://github.com/Khing-Avi/customer-support-operations-portfolio
